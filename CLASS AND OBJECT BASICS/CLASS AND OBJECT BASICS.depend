@@ -1,0 +1,12 @@
+# depslib dependency file v1.0
+1618810428 source:d:\oops c++\class and object basics\main.cpp
+	<iostream>
+	"student.cpp"
+
+1618854145 d:\oops c++\class and object basics\student.cpp
+	<iostream>
+
+1618853508 source:d:\oops c++\class and object basics\studentnew.cpp
+	<iostream>
+	"Student.cpp"
+

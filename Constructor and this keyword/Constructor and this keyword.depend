@@ -1,0 +1,11 @@
+# depslib dependency file v1.0
+1618921313 source:d:\oops c++\constructor and this keyword\studentclass.cpp
+	<iostream>
+
+1618919948 source:d:\oops c++\constructor and this keyword\main.cpp
+	<iostream>
+	"StudentClass.cpp"
+
+1618921313 d:\oops c++\constructor and this keyword\studentclass.cpp
+	<iostream>
+
